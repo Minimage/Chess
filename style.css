@@ -1,0 +1,88 @@
+.row_8 div:nth-of-type(2n) {
+    background-color: black;
+
+}
+
+.row_8 div:nth-of-type(2n-1) {
+    background-color: oldlace;
+
+}
+
+.row_7 div:nth-of-type(2n) {
+    background-color: oldlace;
+
+}
+
+.row_7 div:nth-of-type(2n-1) {
+    background-color: black;
+
+}
+
+.row_6 div:nth-of-type(2n) {
+    background-color: black;
+}
+
+.row_6 div:nth-of-type(2n-1) {
+    background-color: oldlace;
+}
+
+.row_5 div:nth-of-type(2n) {
+    background-color: oldlace;
+
+}
+
+.row_5 div:nth-of-type(2n-1) {
+    background-color: black;
+
+}
+
+.row_4 div:nth-of-type(2n) {
+    background-color: black;
+}
+
+.row_4 div:nth-of-type(2n-1) {
+    background-color: oldlace;
+}
+
+.row_3 div:nth-of-type(2n) {
+    background-color: oldlace;
+
+}
+
+.row_3 div:nth-of-type(2n-1) {
+    background-color: black;
+
+}
+
+.row_2 div:nth-of-type(2n) {
+    background-color: black;
+}
+
+.row_2 div:nth-of-type(2n-1) {
+    background-color: oldlace;
+}
+
+.row_1 div:nth-of-type(2n) {
+    background-color: oldlace;
+
+}
+
+.row_1 div:nth-of-type(2n-1) {
+    background-color: black;
+
+}
+
+
+#a8 {
+
+}
+
+.col-1 {
+    height: 80px;
+    min-width: 40px;
+}
+
+.col_a {
+
+    
+}
